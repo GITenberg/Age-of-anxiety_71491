@@ -1,0 +1,45 @@
+_repo: Age-of-anxiety_71491
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Schoenherr, John
+    aliases:
+    - Schoenherr, Jack
+    - Schoenherr, John (John Carl)
+    birthdate: 1935
+    deathdate: 2010
+    gutenberg_agent_id: '25396'
+    url: http://www.gutenberg.org/2009/agents/25396
+    wikipedia: https://en.wikipedia.org/wiki/John_Schoenherr
+creator:
+  author:
+    agent_name: Silverberg, Robert
+    birthdate: 1935
+    gutenberg_agent_id: '28358'
+    url: http://www.gutenberg.org/2009/agents/28358
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Robert_Silverberg
+    - https://www.gutenberg.org/ebooks/author/53466
+description: ''
+gutenberg_issued: '2023-08-26'
+identifiers:
+  gutenberg: '71491'
+language: en
+pgterms:marc905: 20230812082732silverberg
+pgterms:marc906: '1957'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bRoyal Publications, Inc., $c1957.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Teenage boys -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Age of anxiety
+url: http://www.gutenberg.org/ebooks/71491
